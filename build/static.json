@@ -1,0 +1,9 @@
+{
+    "root": "dist/",
+    "encoding": "US-ASCII",
+    "logging": {
+      "access": false,
+      "error": "warn"
+    },
+    "https_only": true
+  }
