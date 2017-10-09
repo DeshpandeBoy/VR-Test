@@ -46,6 +46,7 @@ class App extends Component {
           </select>
           <div id="search">
             <input onChange={e => this._handleChange(e)} />
+            <h3>Type bank name to searched</h3>
           </div>
           <div id="table">
             <table className="table-striped table-hover">
